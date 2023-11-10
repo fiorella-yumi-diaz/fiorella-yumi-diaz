@@ -72,8 +72,5 @@ ________________________________________________________________________________
 
 <p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=fiorella-yumi&show_icons=true&locale=en" alt="fiorella-yumi" /></p>
 
-<p><img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiorella-yumi&show_icons=true&locale=en&layout=compact" alt="fiorella-yumi" /></p>
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/fiorelladm7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fiorelladm7" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/fiorelladm7"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fiorelladm7" /></a></p><br><br>
