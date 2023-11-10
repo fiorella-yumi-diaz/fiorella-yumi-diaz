@@ -9,13 +9,15 @@
 
 * 🌸Residence: perú -Lima 🌏
 * 🌸Profession: Frontend Developer 💻
-* 🌸Portafolio: Work portfolio [Fiorella-Yumi](https://github.com/fiorella-yumi) 
-* 🌸Hobbies: Paint 🖌 / swimming 🏊‍ / reading 📚 / coding ⌨️
+* 🌸Briefcase: Work portfolio [Fiorella-Yumi](https://github.com/fiorella-yumi) 
+* 🌸Hobbies: swimming 🏊‍ / reading 📚 / coding ⌨️
 * 🌸Goals: "Grow, evolve, be your best version, always in constant improvement." 🫶
 
 __________________________________________________________________________________________________
  
- #### Tecnologias
+ <h3  align="rigth">Languages and Tool</h3> 
+ <div align="rigth">
+  
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,6 +27,7 @@ ________________________________________________________________________________
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+  <br/>
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -32,18 +35,45 @@ ________________________________________________________________________________
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
-
-
- 
- <!--
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
-
- 
-  <a href="https://github.com/rpdana">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rpdana&theme=radical&show_icons=true"/>
 </div>
-   
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
--->
+ 
+<h3  align="rigth">Connect with me</h3>   
+<div align="rigth">
+ 
+<a href="https://github.com/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+ <a href="" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>  
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+
+
+</div>  
+  
+__________________________________________________________________________________________________
+
+
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=fiorella-yumi&show_icons=true&locale=en" alt="fiorella-yumi" /></p>
+
+<p><img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiorella-yumi&show_icons=true&locale=en&layout=compact" alt="fiorella-yumi" /></p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/fiorelladm7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fiorelladm7" /></a></p><br><br>
