@@ -11,7 +11,7 @@
 * 🌸Profession: Frontend Developer 💻
 * 🌸Portfolio: Work portfolio [Fiorella-Yumi](https://github.com/fiorella-yumi) 
 * 🌸Hobbies: swimming 🏊‍ / reading 📚 / coding ⌨️
-* 🌸Goals: "Grow, evolve, be your best version, always in constant improvement." 🫶
+* 🌸Goals: "Grow, evolve, be your best version, always in constant improvement." ✨
 
 __________________________________________________________________________________________________
  
