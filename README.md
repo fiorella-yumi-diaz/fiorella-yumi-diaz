@@ -1,15 +1,15 @@
 
-<h1 align='center'> Hi, I'm Fiorella Yumi 😊👋</h1>
+<h1 align='center'> Hi, I'm Fiorella Yumi Diaz😊👋</h1>
  <br/>
 <p align="center"><samp> ✨ I embarked on a journey into the world of programming as a personal challenge to better myself.I have developed a deep passion for <code>coding;</code> it has not only revealed to me the inherent beauty of web development but also brought me immense joy in witnessing my growth and the things I am capable of accomplishing today✨</samp></p>
 
 ### About me 👩‍💻
  
-<p></p>  <img align='right' src='https://i.pinimg.com/564x/33/c7/be/33c7beb9b676d92cdaf589c7fae4a5d8.jpg' width='140'>
+<p></p>  <img align='right' title="fiorella-yumi-diaz" src='https://i.pinimg.com/564x/33/c7/be/33c7beb9b676d92cdaf589c7fae4a5d8.jpg' width='140'>
 
 * 🌸Residence: perú -Lima 🌏
 * 🌸Profession: Frontend Developer 💻
-* 🌸Portfolio: Work portfolio [Fiorella-Yumi](https://github.com/fiorella-yumi) 
+* 🌸Portfolio: Work portfolio [Fiorella-Yumi-Diaz](https://github.com/FiorellaYumiDiaz) 
 * 🌸Hobbies: swimming 🏊‍ / reading 📚 / coding ⌨️
 * 🌸Goals: "Grow, evolve, be your best version, always in constant improvement." ✨
 
