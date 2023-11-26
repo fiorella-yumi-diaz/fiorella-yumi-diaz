@@ -1,19 +1,25 @@
-
+<div> 
 <h1 align='center'> Hi, I'm Fiorella Yumi Diaz😊👋</h1>
- <br/>
+</div>
+
+![githubPro](https://github.com/fiorella-yumi-diaz/fiorella-yumi-diaz/assets/120481207/1a3243a9-45ec-4a93-adc0-94f461a425ff)
+
+<!-- -->
+<h1></h1>
 <p align="center"><samp> ✨ I embarked on a journey into the world of programming as a personal challenge to better myself.I have developed a deep passion for <code>coding;</code> it has not only revealed to me the inherent beauty of web development but also brought me immense joy in witnessing my growth and the things I am capable of accomplishing today✨</samp></p>
+<h1></h1>
+
 
 ### About me 👩‍💻
  
-<p></p>  <img align='right' title="fiorella yumi diaz" src='https://i.pinimg.com/564x/33/c7/be/33c7beb9b676d92cdaf589c7fae4a5d8.jpg' width='140'>
+<p></p>  <img align='right' title="fiorella yumi diaz" src='https://i.pinimg.com/564x/33/c7/be/33c7beb9b676d92cdaf589c7fae4a5d8.jpg' width='160'>
 
 * 🌸Residence: perú -Lima 🌏
 * 🌸Profession: Frontend Developer 💻
 * 🌸Portfolio: Work portfolio [fiorella-yumi-diaz](https://github.com/fiorella-yumi-diaz) 
 * 🌸Hobbies: swimming 🏊‍ / reading 📚 / coding ⌨️
 * 🌸Goals: "Grow, evolve, be your best version, always in constant improvement." ✨
-
-__________________________________________________________________________________________________
+---
  
  <h3  align="rigth">Languages and Tool</h3> 
  <div align="rigth">
@@ -60,17 +66,17 @@ ________________________________________________________________________________
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-
 
 </div>  
   
 __________________________________________________________________________________________________
+<div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fiorella-yumi-diaz&theme=tokyonight)](https://git.io/streak-stats)
 
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=fiorella-yumi&show_icons=true&locale=en" alt="fiorella-yumi" /></p>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" align='right'> 
+</div>
 
-
-<p><a href="https://www.buymeacoffee.com/fiorelladm7"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fiorelladm7" /></a></p><br><br>
