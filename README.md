@@ -19,7 +19,8 @@
 * 🌸Portfolio: Work portfolio [fiorella-yumi-diaz](https://github.com/fiorella-yumi-diaz) 
 * 🌸Hobbies: swimming 🏊‍ / reading 📚 / coding ⌨️
 * 🌸Goals: "Grow, evolve, be your best version, always in constant improvement." ✨
----
+
+ ---
  
  <h3  align="rigth">Languages and Tool</h3> 
  <div align="rigth">
@@ -46,6 +47,7 @@
  
 <h3  align="rigth">Connect with me</h3>   
 <div align="rigth">
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" align='right'> 
  
 <a href="https://github.com/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -70,13 +72,12 @@
 </a>
 
 </div>  
-  
-__________________________________________________________________________________________________
 <div>
 
+---
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fiorella-yumi-diaz&theme=tokyonight)](https://git.io/streak-stats)
 
 
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" align='right'> 
 </div>
 
