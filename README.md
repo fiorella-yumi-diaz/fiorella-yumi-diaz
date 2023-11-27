@@ -4,7 +4,35 @@
 
 ![githubPro](https://github.com/fiorella-yumi-diaz/fiorella-yumi-diaz/assets/120481207/1a3243a9-45ec-4a93-adc0-94f461a425ff)
 
-<!-- -->
+<!--  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" align='right'> 
+ -->
+<div align="center">
+ 
+<a href="https://github.com/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+ <a href="" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>  
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
+<!--
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+-->
+<a href="https://twitter.com/" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+</div> 
 <h1></h1>
 <p align="center"><samp> ✨ I embarked on a journey into the world of programming as a personal challenge to better myself.I have developed a deep passion for <code>coding;</code> it has not only revealed to me the inherent beauty of web development but also brought me immense joy in witnessing my growth and the things I am capable of accomplishing today✨</samp></p>
 <h1></h1>
@@ -45,35 +73,7 @@
 </div>
 
  
-<h3  align="rigth">Connect with me</h3>   
-<div align="rigth">
- <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" align='right'> 
- 
-<a href="https://github.com/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
- <a href="" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>
-<!--
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
--->
-<a href="https://twitter.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-</div>  
+<h3  align="rigth">Connect with me</h3>    
 <div>
 
 ---
