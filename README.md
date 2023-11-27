@@ -22,9 +22,9 @@
 
  ---
 
- <h2  align="center">💻 Tech Stack:</h2> 
+ <h2  align="left">💻 Tech Stack:</h2> 
 
- <div align="center">
+ <div align="left">
    
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -34,7 +34,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  <br/>
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
@@ -45,9 +45,9 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 </div>
-<h2  align="center">🌐social networks:</h2>
+<h2  align="left">🌐social networks:</h2>
 
-<div align="center"><!-- -->
+<div align="left"><!-- -->
  
 <a href="https://github.com/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -80,7 +80,7 @@
 </a>
 </div> 
 
-<h2  align="center">📊 GitHub Stats:</h2>
+<h2  align="left">📊 GitHub Stats:</h2>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=fiorella-yumi-diaz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
