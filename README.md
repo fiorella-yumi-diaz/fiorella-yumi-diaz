@@ -12,7 +12,7 @@
 
 ## About me 👩‍💻
  
-<p></p>  <img align='right' title="fiorella yumi diaz" src='https://i.pinimg.com/564x/33/c7/be/33c7beb9b676d92cdaf589c7fae4a5d8.jpg' width='140'>
+<p></p>  <img align='right' title="fiorella yumi diaz" src='https://i.pinimg.com/564x/33/c7/be/33c7beb9b676d92cdaf589c7fae4a5d8.jpg' width='190'>
 
 * 🌸Residence: perú -Lima 🌏
 * 🌸Profession: Frontend Developer 💻
@@ -20,7 +20,7 @@
 * 🌸Hobbies: swimming 🏊‍ / reading 📚 / coding ⌨️
 * 🌸Goals: "Grow, evolve, be your best version, always in constant improvement." ✨
 
- ---
+ 
 
  <h2  align="left">💻 Tech Stack:</h2> 
 
