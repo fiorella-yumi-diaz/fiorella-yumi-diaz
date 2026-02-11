@@ -8,8 +8,6 @@
 
 <!-- banner  -->
 
-![banner-github (1)](https://github.com/fiorella-yumi-diaz/fiorella-yumi-diaz/assets/120481207/a12d9098-2eb2-473e-a6c2-33175f9d1150)
-
 
  <p align="center"><samp> ✨ I embarked on a journey into the world of programming as a personal challenge to better myself.I have developed a deep passion for <code>coding;</code> it has not only revealed to me the inherent beauty of web development but also brought me immense joy in witnessing my growth and the things I am capable of accomplishing today✨</samp></p>
 
